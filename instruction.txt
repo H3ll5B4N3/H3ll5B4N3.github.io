@@ -1,0 +1,3 @@
+1. Create a repository (for example if your username is kamal then create a repository named kamal.github.io)
+2. Add all the files attached to your repository. (you don't have to add this .txt file tho)
+3. You're done!
